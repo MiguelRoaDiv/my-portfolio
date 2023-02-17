@@ -6,13 +6,13 @@ import Testimonials from "./pages/Testimonials"
 import Contact from "./pages/Contact"
 import Home from "./pages/Home"
 import Navbar from './components/Navbar'
+import './pages/estilos.css'
 
 
 function App() {
 
   return (
     <div className="App">
-       <h1 className='text-red-500'>react</h1>
        <Navbar/>
        <Routes>
          <Route path='/' element={<Home/>} />
