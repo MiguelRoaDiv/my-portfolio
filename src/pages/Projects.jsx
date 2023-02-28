@@ -9,9 +9,7 @@ const Projects = () => {
           Aplicaciones y desarrollos 
         </h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-          facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-          fuga dolore.
+          Durante mi paso por el mundo del desarrollo y hasta el momento he logrado practicar y ser participe de diferentes proyectos de desarrollo y diseño como los mostrados a continuación.
         </p>
       </div>
 
