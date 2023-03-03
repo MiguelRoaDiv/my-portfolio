@@ -25,7 +25,7 @@ const Navbar = () => {
         </div>
 
         { isOpen &&(
-            <ul className=' block absolute top-24 right-0 bg-purple-300  text-right p-4 sm:hidden'>
+            <ul className=' block absolute top-24 right-0 bg-black-300  text-right p-4 sm:hidden bg-neutral-900 text-white'>
             <li><Link to={"/"}>Home</Link></li>
             <li><Link to={"/about"}>About</Link></li>
             <li><Link to={"/projects"}>Projects</Link></li>
