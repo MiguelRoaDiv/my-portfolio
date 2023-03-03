@@ -6,7 +6,7 @@ export const projectData = [
   {
     id: 1,
     title: 'SABUJCHA',
-    subtitle: "demo",
+    subtitle: "https://github.com/MiguelRoaDiv/Sabujcha",
     description:
       "Desarrollo de práctica en la academia ",
     image: Sabujcha,
@@ -15,7 +15,7 @@ export const projectData = [
   {
     id: 2,
     title: 'ZSHOP',
-    subtitle: "demo",
+    subtitle: "https://github.com/MiguelRoaDiv/zShop",
     description:
       "Desarrollo de práctica en la academia",
     image: ZShop,
@@ -24,7 +24,7 @@ export const projectData = [
   {
     id: 3,
     title: 'CRIPTO',
-    subtitle: "demo",
+    subtitle: "https://github.com/MiguelRoaDiv/cripto2",
     description:
       "Desarrollo de práctica en la academia",
     image: Cripto,

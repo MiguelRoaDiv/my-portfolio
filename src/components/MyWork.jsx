@@ -9,7 +9,7 @@ const MyWork = () => {
         return(
           <div className='work columns-2  content-between font-serif text-center items-center px-4 py-6  text-white'>
             <h1 className=' text-center items-center px-4 py-6'>{item.title}</h1>
-            <h2 className=' text-center items-center px-4 py-6'>{item.subtitle}</h2>
+            <a className=' text-center items-center px-4 py-6' href={item.subtitle}  target="_blank">Demo</a>
             <p className=' text-center items-center px-4 py-6'>{item.description}</p>
             <a  className=' text-center items-center px-4 py-6' href={item.link} target="_blank"><img className='' src={item.image} alt={item.title} /></a>
            

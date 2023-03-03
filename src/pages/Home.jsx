@@ -3,7 +3,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className='Home text-start text-lg p-40 font-serif font-light text-slate-100 columns-2'>
+    <div className='Home text-start text-lg p-40 font-serif font-light text-slate-100 columns-2 sm:text-sm'>
 
       <p className='p-10 text-lg '>Hola, Soy Miguel Roa</p>
       
